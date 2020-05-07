@@ -34,7 +34,6 @@ while True:
             StoredNews = json.loads(f.read())
 
         if FortniteGame != StoredNews:
-            print("Cambiamenti")
             News.GetBRNews(Language = language.lower())
             if twitterEnabled is True:
                 try:
